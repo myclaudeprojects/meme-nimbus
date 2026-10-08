@@ -1,0 +1,45 @@
+{
+  "ticker": "NIMBUS",
+  "ticker_lower": "nimbus",
+  "name": "Nimbus",
+  "character": {
+    "name": "Nimbus",
+    "one_liner": "Dreamy, gentle, falls asleep mid-sentence.",
+    "visual": "Fluffy white lamb with soft curled wool covering head and body, large dreamy blue eyes with long lashes, a tiny light-pink nose, gentle smile with faint pink blush, floppy ears with pale peach insides, and short sturdy legs with light beige hooves"
+  },
+  "tagline": "Soft wool. Soft voice. Soft landing into a nap.",
+  "blurb": "Nimbus drifts through the day like a little cloud \u2014 gentle, warm, and occasionally horizontal. Entertainment only \u2014 not financial advice.",
+  "mint": null,
+  "ca": null,
+  "buy_url": null,
+  "twitter": null,
+  "x_url": null,
+  "telegram": null,
+  "telegram_url": null,
+  "dexscreener": null,
+  "character_image": "/workspace/meme-site-factory/critters-art/nimbus.webp",
+  "palette": {
+    "primary": "#ff9a76",
+    "secondary": "#ffd6a5",
+    "accent": "#ffe8d6",
+    "bg": "#fff8f1"
+  },
+  "design": {
+    "seed": "c49a02b828988089",
+    "palette_family": "cream_peach",
+    "palette_source": "generated",
+    "layout": "split",
+    "layout_source": "generated",
+    "layout_label": "Character left / copy right (stacks on mobile)",
+    "font_pair": "bubblegum_lato",
+    "font_source": "generated",
+    "font_display": "Bubblegum Sans",
+    "font_body": "Lato",
+    "font_google": "family=Bubblegum+Sans&family=Lato:wght@400;700"
+  },
+  "request_id": "nimbus-2026-10-08-001",
+  "reply_to_agent_id": "9411f9dd-aace-468d-ba4c-319e35db5600",
+  "public": true,
+  "lore": "Nimbus is mostly wool and goodwill. Big blue eyes, a tiny pink nose, and a smile that arrives slowly, like sunrise through fog.\n\nConversations with Nimbus are lovely until they aren't \u2014 because somewhere between \"and then I thought\" and the next word, those lashes flutter shut and the story continues in dream-land.\n\nNobody minds. You just tuck a blanket around the fluffy cloud and wait. When Nimbus wakes, the sentence picks up exactly where it left off, as if sleep were only a comma.\n\nDreamy, gentle, and permanently half-asleep \u2014 that's Nimbus. Entertainment only \u2014 not financial advice.",
+  "lore_source": "handoff"
+}
